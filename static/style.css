@@ -1,0 +1,12 @@
+body {
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  form div > * {
+    display: block;
+  }
+  
+  button {
+    margin-top: 1em;
+  }
